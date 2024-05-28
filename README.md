@@ -1,3 +1,4 @@
+![logo](https://github.com/sunnykushwaha18/sunnykushwaha18/blob/main/githubCover.png)
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">A Java Full Stack Developer & Competitive Programmer</h3>
 
