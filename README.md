@@ -1,10 +1,13 @@
-![logo](https://github.com/sunnykushwaha18/sunnykushwaha18/blob/main/githubCover.png)
+![MasterHead](https://github.com/sunnykushwaha18/sunnykushwaha18/blob/main/githubCover.png)
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">A Java Full Stack Developer & Competitive Programmer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnykushwaha18&label=Profile%20views&color=0e75b6&style=flat" alt="sunnykushwaha18" /> </p>
+
+<p align="left"> <a href="https://www.instagram.com/____sunny_kushwaha_18/" target="blank"><img src="![image](https://github.com/sunnykushwaha18/sunnykushwaha18/assets/116955832/2a1eb6f7-2063-4336-b585-b0bc2e5522d1)
+" alt="_sunny_" /></a> </p>
 
 - 🌱 Exploring the Depths of **Spring Frameworks & Microservices;**
 
