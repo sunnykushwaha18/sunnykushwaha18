@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnykushwaha18&label=Profile%20views&color=0e75b6&style=flat" alt="sunnykushwaha18" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/____sunny_kushwaha_18/" target="blank"><img src="![image](https://github.com/sunnykushwaha18/sunnykushwaha18/assets/116955832/2a1eb6f7-2063-4336-b585-b0bc2e5522d1)
-" alt="_sunny_" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/____sunny_kushwaha_18/" target="blank"><img src="https://img.shields.io/badge/Instagram-_sunny_-%23E4405F?logo=instagram&style=for-the-badge" size= 20% alt="_sunny_" /></a> </p>
 
 - 🌱 Exploring the Depths of **Spring Frameworks & Microservices;**
 
